@@ -27,6 +27,12 @@
             {{ siteIcp }}
           </a>
         </span>
+        <span class="hidden">
+          &amp;
+          <a href="https://beian.mps.gov.cn/#/query/webSearch?code=21021102001685" rel="noreferrer" target="_blank">
+            辽公网安备21021102001685号
+          </a>
+        </span>
       </div>
       <div v-else class="lrc">
         <Transition name="fade" mode="out-in">
